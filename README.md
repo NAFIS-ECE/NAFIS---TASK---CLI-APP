@@ -1,31 +1,5 @@
 # NAFIS---TASK---CLI-APP
-- Add a new task - View all tasks with status - Mark a task as done - Delete a task - Tasks are saved permanently in a JSON file
-Task Manager - CLI App
-A command-line task manager built in Python that saves tasks persistently using JSON.
-
-Features
-Add a new task
-View all tasks with status
-Mark a task as done
-Delete a task
-Tasks are saved permanently in a JSON file
-How to Run
-Clone this repository
-Run: python task_manager.py
-Follow the on-screen menu (1-5)
-Tech Stack
-Python 3
-JSON (for data storage)
-What I Learned
-File handling (reading/writing files)
-Using JSON to store and load structured data
-Writing functions to organize code
-Using try/except to handle invalid input
-Building a menu-driven program with a while loop
-Future Improvements
-Add due dates and priority levels
-Build a GUI using Tkinter
-Add task categories (work, study, personal)
+NAFI-TASK is a command-line task management application built in Python that helps users organize, track, and manage their daily tasks efficiently. Unlike basic to-do scripts that lose data once the program closes, NAFI-TASK uses JSON-based file storage to ensure that every task persists between sessions, giving it real-world practical value. The application allows users to add new tasks, view all tasks with their completion status, mark tasks as done, and delete tasks they no longer need — all through a simple, intuitive menu-driven interface. Built as a step up from basic scripting, this project strengthened my understanding of file handling, data persistence, structured programming using functions, and error handling in Python, laying the foundation for more advanced projects involving databases and APIs.
 Author
 MD Nafis, B.E. Electronics and Communication Engineering (ECE), Rajalakshmi Institute of Technology
 
